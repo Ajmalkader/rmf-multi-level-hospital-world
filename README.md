@@ -80,6 +80,7 @@ source ~/rmf_ws/install/setup.bash
 # Launch the world
 
 ros2 launch rmf_demos_gz hospital.launch.xml
+
 ros2 launch rmf_demos_gz_classic hospital.xml
 
 
