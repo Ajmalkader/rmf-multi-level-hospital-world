@@ -83,3 +83,11 @@ ros2 launch rmf_demos_gz hospital.launch.xml
 ros2 launch rmf_demos_gz_classic hospital.xml
 
 
+Note: The above launch files you must add inside rmf_ws after clone the workspace add launch file inside src/rmf_demo_gz and src/rmf_demo_gz_classic and install/rmf_demo_gz and install/rmf_demo_gz_ classic then particullarly add these install_launch_hospital.launch.xml file inside install/rmf_demo/share/launch/
+
+
+then you will seen the 6 floor hospital world
+
+
+
+
