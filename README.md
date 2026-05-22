@@ -1,6 +1,8 @@
 # rmf-multi-level-hospital-world
 Multi-floor hospital simulation environment developed using Open-RMF Traffic Editor with ROS 2 and Gazebo integration for autonomous robot fleet management, navigation, lift coordination, and healthcare logistics automation.
 
+<img width="2490" height="1413" alt="Screenshot from 2026-05-22 20-17-55" src="https://github.com/user-attachments/assets/658c33eb-bef1-48d7-82f2-0d3214bc57d2" />
+
 
 # Install ROS 2 Humble
 
